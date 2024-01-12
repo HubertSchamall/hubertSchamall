@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
- -I’m Brazilian Front-End developer.
+ -I’m a Brazilian Front-End developer.
 
  -Pronouns: He/Him.
  
