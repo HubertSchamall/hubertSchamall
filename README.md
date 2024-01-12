@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/hubertschamall">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hubertschamall&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=CD0000&bg_color=000000&title_color=808080"/>
-   <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hubertschamall&show_icons=true&theme=dark&layout=compact&hide_border=true&title_color=808080&text_color=808080&bg_color=000000" />
+   <img width="41%" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hubertschamall&show_icons=true&theme=dark&layout=compact&hide_border=true&title_color=808080&text_color=808080&bg_color=000000" />
 </div>
   
 <div style="display: inline_block"><br>
