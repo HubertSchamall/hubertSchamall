@@ -1,10 +1,10 @@
 ### Hi there 👋🏻
 
- -I’m currently learning JavaScript
+ -I’m Brazilian Front-End developer.
 
- -Pronouns: He/Him
+ -Pronouns: He/Him.
  
- -I am 24 years old
+ -I am 24 years old.
  
 <div align="center">
   <a href="https://github.com/hubertschamall">
